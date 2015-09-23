@@ -1,4 +1,4 @@
-FROM golang:1.5.0
+FROM golang:1.5.1
 
 MAINTAINER Brandon Mangold <bmangold@docker.com>
 
